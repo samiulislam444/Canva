@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+    color: #20493B;
+    text-align: left;
+    padding: 0%;
+}
+h3{
+    font-size: 28px;
+    color: #EDEDED;
+}
+.tip{
+    color: #EDEDED;
+}
+p{
+    font-size: 22px;
+}
+section{
+    display: flex;
+}
+.sam{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.img{
+    right: 0px;
+    width: 65%;
+    padding-left: 200px;
+    
+}
+.back{
+    background-color: #6DACDF;
+}
